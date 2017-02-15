@@ -1,7 +1,7 @@
 # StarWarsApiDataVisualization
 Using Python Requests and Json libraries to make an API call to the Star Wars API and create data visualizations with the results.
 
-Goals:
+## Goals:
 1. Get comfortable accessing APIs
 2. Navigate and successfully use JSON
 3. Create a graph to visualize the data from the API call
