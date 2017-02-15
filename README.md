@@ -8,4 +8,4 @@ Goals:
 
 Simply for fun, I got the heights of twenty five of the characters and rendered the data in a histogram which looks like this:
 
-![image of graph](./StarsWarsHeights.PNG)
+![image of graph](./StarWarsHeights.PNG)
